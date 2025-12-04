@@ -104,11 +104,12 @@
 ### 🏆 Achievements & Certifications
 - **Minor Degree in Data Science – JNTUH** *(Aug 2023 – Aug 2025, Expected)*  
   *Focus: Statistical Analysis, Machine Learning, Data Mining, Data Analytics & Data Visualization.*
-- 🐍 **Python Programming & Data Structures** – CodeTantra  
+- 🐍 **Python Programming & Data Structures** – CodeTantra
+- 📊 **Data Analytics Essentials – CISCO
 - 🤖 **IBM: Getting Started with Enterprise Data & Enterprise-grade AI**  
 - ☕ **Full Stack Java Development** – Simplilearn  
 - 💬 **NLP, ChatGPT & Prompt Engineering** – ExcelR  
-💻 **Java Developer Intern** (Elevate Labs | Sep 2025 – Nov 2025)
+
   
 
 ---
