@@ -105,8 +105,10 @@
 - **Minor Degree in Data Science – JNTUH** *(Aug 2023 – Aug 2025, Expected)*  
   *Focus: Statistical Analysis, Machine Learning, Data Mining, Data Analytics & Data Visualization.*
 - 🐍 **Python Programming & Data Structures** – CodeTantra
-- 📊 **Data Analytics Essentials – CISCO
-- 🤖 **IBM: Getting Started with Enterprise Data & Enterprise-grade AI**  
+- 📊 **Data Analytics Essentials** – CISCO
+- 💻 **Software Engineering Job Simulation**– Accenture (Forage)
+- 🤖 **IBM: Getting Started with Enterprise Data & Enterprise-grade AI**
+- 🧑‍💻 **One-month internships** - CSEdge and CodSoft
 - ☕ **Full Stack Java Development** – Simplilearn  
 - 💬 **NLP, ChatGPT & Prompt Engineering** – ExcelR  
 
