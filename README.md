@@ -110,7 +110,10 @@
 - 🤖 **IBM: Getting Started with Enterprise Data & Enterprise-grade AI**
 - 🧑‍💻 **One-month internships** - CSEdge and CodSoft
 - ☕ **Full Stack Java Development** – Simplilearn  
-- 💬 **NLP, ChatGPT & Prompt Engineering** – ExcelR  
+- 💬 **NLP, ChatGPT & Prompt Engineering** – ExcelR
+- 🎖️ **Best Outgoing Student Award (2019)**
+- 🌟 **Best Coordinator Award** – Tech fests, workshops, and seminars
+- 🔰 **Led teams to complete major and minor projects ahead of schedule**
 
   
 
