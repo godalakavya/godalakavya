@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 
-🎓 **B.Tech in Computer Science and Engineering** from **Jyothishmathi Institite Of Technology And Science ** with a CGPA of **8.01**.\
+🎓 **B.Tech in Computer Science and Engineering** from **Jyothishmathi Institite Of Technology And Science ** with a CGPA of **8.10**.\
 💡  passionate **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**.\
 📊 I love turning raw data into meaningful insights.\
 🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.\
