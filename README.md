@@ -2,7 +2,7 @@
 # 👋✨ Hi there, I'm **Kavya Godala**!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines= Data+Driven+Data+Analyst;;Python+Data+Analytics;;AI+Researcher;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines= Data+Driven+Data+Analyst;;Python+Data+Analytics;AI+Researcher;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -118,18 +118,6 @@
   
 
 ---
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=godalakavya&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=godalakavya&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=godalakavya&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=godalakavya&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
 
 ## 📬 **Connect With Me**
 
