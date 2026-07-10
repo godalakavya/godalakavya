@@ -85,7 +85,8 @@
 
 | Role | Organization | Duration |
 |------|---------------|-----------|
-| 📊 **Junior Analyist Intern** | Vangrove Tech | Oct 2025 – Mar 2026 |
+| 📊 **Data Analyst Intern** | Zetheta Algorithms Private Limited  | May 2025 – July 2026 |
+| 📊 **Junior  Data Analyst Intern** | Vangrove Tech | Oct 2025 – Mar 2026 |
 |📊 **Python Intern – Programming & Development** | CodSoft | June 2024 |
 | 💻 **Web Development Intern** | CSEdge | May 2024 |
 
