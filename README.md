@@ -85,7 +85,7 @@
 
 | Role | Organization | Duration |
 |------|---------------|-----------|
-| 📊 **Junior Analyist Intern** | Vangrove Tech | Nov 2025 – Present |
+| 📊 **Junior Analyist Intern** | Vangrove Tech | Oct 2025 – Mar 2026 |
 |📊 **Python Intern – Programming & Development** | CodSoft | June 2024 |
 | 💻 **Web Development Intern** | CSEdge | May 2024 |
 
