@@ -2,7 +2,7 @@
 # 👋✨ Hi there, I'm **Kavya Godala**!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Data+Driven+Data+Analyst;Business+Analayst;AI+Researcher;Python+Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Data+Driven+Data+Analyst;Business+Analayst;Research+ Data;AI+Researcher;Python+Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@
 <p align="left"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Agile%2FScrum-4B5563?style=for-the-badge" /> </p>
 🧠 AI & GenAI
 <p align="left"> <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI--Assisted%20Data%20Analysis-5B21B6?style=for-the-badge" /> </p>
----
+
 
 ## 💼 **Internships & Experience**
 
